@@ -80,3 +80,7 @@ This is where our system will be tested against other teams.
 
 ---
 
+## For Fun
+
+- The **AC75** is the big big brother of the moth, its the king of the foiling boats: 
+  https://www.boatingnz.co.nz/2024/09/inside-the-ac75-how-hydrofoils-and-wing-sails-revolutionise-racing/
