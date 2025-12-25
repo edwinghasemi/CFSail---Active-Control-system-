@@ -1,65 +1,72 @@
- 
-## INTRODUCTION 
+# Introduction
 
-# This document is a short introduction to the project, expectation and goal. It will include a few links which introduced the Formula Sailing project and the fundamentals of a Moth dingy which is good to know beforehand. We dont expect anyone to understand everything so please just read through the material and then we could discuess everything during our meeting!
+This document is a short introduction to the project, its expectations, and its goals.  
+It includes several links that introduce the **Formula Sailing** project and the fundamentals of a **Moth dinghy**, which are useful to review beforehand.
 
+We do **not** expect everyone to understand everything at this stage—please read through the material, and we will discuss it together during our meeting.
 
-# Step 0:
--	Read links
--	Try to get an understanding of the Moth and Chalmers Formula Sailing
+---
 
-# Step 1:
--	Startup meeting
--	Establish communication channels 
--	Make group contract
--	Group structure
--	Organize us with supervisor 
+## Project Overview
 
+### Step 0 – Preparation
+- Read the provided links  
+- Try to get a basic understanding of:
+  - The Moth dinghy
+  - Chalmers Formula Sailing
 
-# Step 2: 
--	Establish a concept and goal with the project
--	Create a time plan including the milestones
+---
 
-# Step 3:
-	Start project
+### Step 1 – Project Startup
+- Startup meeting  
+- Establish communication channels  
+- Create a group contract  
+- Define group structure  
+- Organize collaboration with the supervisor  
 
-# Step 4: 
--	TBC 
+---
 
+### Step 2 – Planning
+- Establish a project concept and overall goal  
+- Create a time plan including milestones  
 
+---
 
+### Step 3 – Execution
+- Start the project  
 
+---
 
+### Step 4 – To Be Confirmed
+- Details will be defined later  
 
+---
 
+## Background Reading
 
+### Chalmers Formula Sailing Articles  
+(Search Magazine – listed in chronological order; the later articles are the most relevant)
 
+- [Chalmers hållbara Moth flög på Gårdasjön](https://www.searchmagazine.se/artiklar/chalmers-h%C3%A5llbara-moth-fl%C3%B6g-p%C3%A5-gardasj%C3%B6n_20241.htm)
+- [Chalmers hållbara Moth förbättrad och tillbaka i Gårda](https://www.searchmagazine.se/artiklar/chalmers-h%C3%A5llbara-moth-f%C3%B6rb%C3%A4ttrad-och-tillbaka-i-garda_21313.htm)
+- [Chalmers Formula Sailing summerar Foiling SuMoth Challenge i Gårda](https://www.searchmagazine.se/artiklar/chalmers-formula-sailing-summerar-foiling-sumoth-challenge-i-garda_21340.htm)
+- [Nya förbättringar i sikte för den hållbara Mothen](https://www.searchmagazine.se/artiklar/nya-f%C3%B6rb%C3%A4ttringar-i-sikte-f%C3%B6r-den-h%C3%A5llbara-mothen_21815.htm)
 
+---
 
+## SuMoth Challenge
 
+**SuMoth Challenge (Sustainable Moth Challenge)** is the competition the project is working towards.  
+This is where our system will be tested against other teams.
 
+- General website:  
+  https://sumoth.org/
 
+- Rulebook (very limited information regarding electronic systems):  
+  https://docs.google.com/document/d/1DWqHQy9Zv18FnKHnLXZ3iaAe7snq--3fZLBMYisGbBc/edit
 
+---
 
-Links: 
-	
-Search magazine articles about Chalmers Formula Sailing, chronology order, more interesting are the two later. 
+## Reference Image
 
-	https://www.searchmagazine.se/artiklar/chalmers-h%C3%A5llbara-moth-fl%C3%B6g-p%C3%A5-gardasj%C3%B6n_20241.htm
-
-https://www.searchmagazine.se/artiklar/chalmers-h%C3%A5llbara-moth-f%C3%B6rb%C3%A4ttrad-och-tillbaka-i-garda_21313.htm
-
-https://www.searchmagazine.se/artiklar/chalmers-formula-sailing-summerar-foiling-sumoth-challenge-i-garda_21340.htm
-
-https://www.searchmagazine.se/artiklar/nya-f%C3%B6rb%C3%A4ttringar-i-sikte-f%C3%B6r-den-h%C3%A5llbara-mothen_21815.htm
-
-
-SuMoth Challenge – Sustabile Moth Challenge is the competions the project is working towards and where our system truly will be tested against other teams
-
-	General website if anyone is intrested
-https://sumoth.org/
-
-	Rulebook – almost nothing about electronic systems 
-https://docs.google.com/document/d/1DWqHQy9Zv18FnKHnLXZ3iaAe7snq--3fZLBMYisGbBc/edit?tab=t.0
-
-<img width="451" height="693" alt="image" src="https://github.com/user-attachments/assets/f61b93b4-2a24-409b-8359-9359188c1567" />
+![Moth Dinghy Reference](https://github.com/user-attachments/assets/f61b93b4-2a24-409b-8359-9359188c1567)
